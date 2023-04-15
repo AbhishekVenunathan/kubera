@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "192412014866",
+    "project_id": "kuberaa-ad91b",
+    "storage_bucket": "kuberaa-ad91b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:192412014866:android:6a7ad4ebfa7b8cca417bcb",
+        "android_client_info": {
+          "package_name": "com.ebook.kuberaa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "192412014866-18rellqhmoqhk4e6ai2bi1hk12fnk2k2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ebook.kuberaa",
+            "certificate_hash": "07df0d48e8eca1a135293a457b062ac57d919130"
+          }
+        },
+        {
+          "client_id": "192412014866-0h15skf49jls5glds4jp1h8ootnr8tff.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2HM77E-PtTK5sbAMTI43UuYWgRaWnMiA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "192412014866-0h15skf49jls5glds4jp1h8ootnr8tff.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
